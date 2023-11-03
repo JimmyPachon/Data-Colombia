@@ -1,0 +1,1 @@
+Este es un repositorio creado con la finalidad de crear una base de datos a partir de la información proporcionada por el DANE, la policia nacional y el Banco Mundial. Demuestra las bondades de la ciencia de datos fuera del ámbito netamente comercial.
